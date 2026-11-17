@@ -1,0 +1,834 @@
+[
+  {
+    "path": "train/glioma/Tr-gl_1057.jpg",
+    "split": "train",
+    "class": "glioma",
+    "label": 0,
+    "pixel_sha256": "7b6bd48d47238af7f57be737b175bdee9bcb1f66ca3f1919c3d6d81bf3efe584",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/glioma/Tr-gl_1271.jpg",
+    "split": "train",
+    "class": "glioma",
+    "label": 0,
+    "pixel_sha256": "327b56a7f8c395f67a58caeb21234dd231e2ce1c5b3ca9ae7d04e6a940d8448c",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/glioma/Tr-gl_361.jpg",
+    "split": "train",
+    "class": "glioma",
+    "label": 0,
+    "pixel_sha256": "bac4b4d7ccd43f8a7002540a2d239b69f7980f28dfff81fbd1fbaca3cffc8c46",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/glioma/Tr-gl_420.jpg",
+    "split": "train",
+    "class": "glioma",
+    "label": 0,
+    "pixel_sha256": "c2ca1f86992317ab9575f11eb1bf386d679a9d47d7823f818273e00fa192176c",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_1044.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "734aff1a62616865ea200239c285301ee0beb805add91457cff728e410d5fdeb",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_1057.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "4af63de42c812b5bc027b41bc877adc3aaf11e25205e270d7eb4773737aeea74",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_1069.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "c99cb78a03bb6d2e830c2a45d83f771fdbcca87c968d7a38aa6496e0bfdd8b7b",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_1083.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "99908e2c9512f6e4504aca045d22f2710012691d26296c430ce88d92a767355c",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_109.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "065786b0a22eabf98a332532597a424b8230d4dd9dff9f5b89b7fc8f51137e6f",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_1091.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "b03c298a314f70c4e42560ab7b258cdf667ebda0e36a883f0263d166ca33e837",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_110.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "8471566a11dd8696e6422e8e744223ccf90b798740386a3716684e56c2fad377",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_1112.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "fd956f1e6317c23f9daa6874adc56031e15e4b4bd703efab550f3bd87245bf5e",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_1121.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "7000fbbe863cf6fbe4486336c26f1ab53e1729882059552d952e855d002f355e",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_1122.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "1b72cce92639941d26832e7a46d4664e3c4431a3ac8bca3b611997e07cba529a",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_1146.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "2edbecc6e0e03eda140190aa4af082128deadfda062cf3f3975d49179ab567f5",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_1163.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "c4c20c64699092005dfd1972bab3802d54bdb041caa04fb5d9e6efc7d3a54f6e",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_1166.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "f18ec0a3a82ddf82d19459f666807d9ce672759e8b6915574ad458480f8e9e48",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_1168.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "9651752d95ea7b8d0c9ed5a90db110356b12dfd451732af45e15fdaa4f79f533",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_1198.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "2405e3c200d1eb032a780ff3ac71c7e82f4321e2e50ca4c173bfd2ca2d5d3efc",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_1249.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "a2ff011108d1dd2529dd394bae1b2b2f85cdf94b915cb3320748a3b03b8742a5",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_126.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "7442b134dcd47227d6f8b14b5e2e4be139c748617dcfd82b516eec4bc559748d",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_1262.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "0acdf483c9f772500ddd64922c0baa551e00f6f379d363ab8549bcca71befcbb",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_1286.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "6b95507f22074341d74487e473f629da0cbe05847f7041ba68e8bd1807f303de",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_1289.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "0cccfe586d3aa9978d30b6d55c0ab19208116fbca7855ebb3307bb959ecc6a91",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_1290.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "cb430f67a4818e72156317894047dfb9a675d4234202d52aca006c9e6ce0221c",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_131.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "2c6fc3d7b1db40833b7cd70ba0969749a860ae07090fa0c5b9568b4dc93897bb",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_145.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "16fd7bf6bc460df43e7f5f62b895c8230124b12c0793b9892c875f6ed9f57f0c",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_154.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "9be3f1f131bb65437b3766ce4be7b4d5ef23f72dea7c39e0126d92f49f9a39ce",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_158.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "53c1810404034975b0166d236a810f5eb8bfe03ebfc0c2b63fc932bbe95cdaca",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_167.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "20c868495a1ba520af3ef91678b9e1deb7578253f2213255a9a1a99a9c4a5061",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_19.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "c9e41128b390ab48f2cb491ca68c256782a7e766d61503771cfce6d64eb52e64",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_200.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "33f6880b866b7ff3b43e90511c557e9c255c2341952da9cae22b5fe3f268f000",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_205.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "f853823aa32166f838a4891cc221cdfe4db5c5e74f7e6a0fa0e76cb29e291383",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_239.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "8792d098c7165e3ddcb853ba498870b68f19682a09e966fdef87c8abf5e4dc3c",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_3.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "1ddf089894b0cf9d610c74ff342b9a6965147459bd2274bd3a84ffb32079761e",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_330.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "704c6a0ec7b220b045e7483755a9957fb2abcf6140bc6a551a6846723088627e",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_331.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "e014afbfe251bff7125a620246f837eba73f8039cd8a206d5d6dce4ccaca6e65",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_339.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "aaf1f6f8be43f2d72e84aa5ed56f03669129f2226d2327ae16ab379e8b0c89bf",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_36.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "12528b46f861e3b4fcefe50260747cfe4d475866dae44c6c605a5ddf170a3a7d",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_373.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "9b1b6c6cbcb3667c1b798a8b088b5f72e3104f759ffb29f744f6c5587d35f8b2",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_404.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "ee6bfce8a1a98ae18228f121b453543c42be4ea71e65f03cae3fb4b7b53fbcce",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_424.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "b0fe126bd2333d1e299329abc48c1d784b1f1c614b085053759febbddf5725a8",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_432.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "779890c83bf330761180ddc5f8387b66a9697bd3cb7a97d88fcced86c620980c",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_437.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "b84d21111c1e2b9564e5c032835f2320c457a0b909fe36e333c624920f8544b3",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_450.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "64824416fe1da696b394e6f624984ed72910b2f0e14e73ffd104023391508acb",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_453.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "48fef76478535ae3fd24ddcd804f17a48697b42e84d64ae0f7b3513b92cef41b",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_458.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "f994524c187a531843f4ae972493e6355624f4e976b8157e77b3c928b8476e18",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_468.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "c2312a641b1a669ac30f0e5addddccf5bee03026cbd96dee44659a4f7e2e4dc8",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_486.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "5e74819e92753350ed959342fc9b94a82426c036487b69dc17079d02f049f597",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_497.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "7ceb39d0bae9b9c324a21feb2b4d8f66908009be9d4bd9f19ba83c3b5090be7a",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_50.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "913f67f3bba21643c8e154e31a20d08a7101cf76d7af2c86da0dabba26057b35",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_52.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "4a5a1894271f131bbede8158630610a6c038fbcc809c5489f93da0167f0864bd",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_530.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "94928e2a8bfc4f042e02d05f9647ef20c3babca8432cc3b231f312575a6a9fef",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_557.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "8ae8a4946da590e706e4271107f92924096355b3ea225544f54e9cf6285bf14a",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_583.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "0ae87a1f6f3a0e8e7dc246a8624391ea5534eca15a6743a90196305c3b4849d8",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_597.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "4c52ff90370c272fa939725fb2ef03f180124ede36845fd0866c48a5012fb8f9",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_616.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "e17ba9076625edf1ae931e7d620bc73c4535c8c17380376bc6887b2509d9c077",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_661.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "c11675c58e11fe3e78ef0483678b715f8fee83b66060840486cbdccd608e0a57",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_666.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "4f800887c26df1597339a3c97355ccce1767433bf89d529e97b5365905e6dbb8",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_678.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "43da853a4d44dcda663cc6d5aca6eaf58919059947a20299f45b42685715cce7",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_684.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "62299995bae3b83e484d75970b79bd8cf1921cb45c666f67ddabb001c4232f65",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_688.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "7b337ac4999b8e16ec012bd7eddee6cfde5e53e7c9adea451dd7f83b97f7551e",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_706.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "e725dea87c8bedfc572ecd1e4aa8a482fd06534ed39060f96457d2be2d9dea22",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_715.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "88742970d7306ba731e3723d23cb6ee27e92fd0b33232b654f2bb1102071ba1d",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_717.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "c0501db8e693a61b6c105211a5b66971982c2d78ff0b3af4716b2a4aa146c058",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_737.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "24514473d72ad1748111aef3cb1d3691f9aadd427913ec81b12b9e8fea013d66",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_740.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "82395c060f8f33e5be9f8171e9c53655c2bdf4d69052a85f46cb270b4fe1670f",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_753.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "1f1f20dec9568196a25f5dc46f50b8bedf3bb1b4cccf202f11ce31af616317c9",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_760.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "47d4263e07dcb164bea8bf33f84b781ea14f2dd623407743bcdaeae006670bea",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_771.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "5c7592cc8a08daa0c6fb8240d76315e0c1d4dd21a192b0dbe362c06260721673",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_776.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "771be23b808e1c83887ee79b044f7670d2cbc83f78860028f0e8c723e854d9e3",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_845.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "8cd57144389dcd584778a4a963db50357dcc469cf2644a6ac811ced776cc2a0e",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_846.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "7c694018249665eaeae304d3e7000f99d974ee389ddf9f1f1e773885003a4f2f",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_865.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "f5f5f387ae37c12a03afff50fc5499aa99c343304d5ef1ec89551d98c40f1871",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_877.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "e99dc6b5934068b3d70836732126102e71e6b452c5aeaf9e91516af5b75fa173",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_880.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "e79c062325d08e51386dd1f5a4dd8193b58378c30e3b2d70a0c37614ceac0956",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_897.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "a3a1cbdc51fbf6bd97eb9d4c96c8ad53f68b7870db9f8756b88f57478ee5a5c8",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_905.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "68ac6916a6128d596165af31538e4994c847bf0ebd4e1997063fb1d550113dbd",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_920.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "db58fbefeacd732121ce8c49fddad8a6ff11f3ad90356baf795de247fac18457",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_946.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "18f58cf37656a811440e86264977659aeb2d8919a975950f83de406bb3a5cf07",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_954.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "61070f2b87dde9f6ed4cb69346aef7d711f4282fed7574048c5e89ed9f801b3a",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_957.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "c80b01dcb04963db9b6055d8fe937cf0914841f26a6268574674d40a88b2b5c7",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_960.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "b9cd031a6a277aa53aaf4468912bfd6f7c9e36cf1c4363a3bfc2922dfedfee72",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_962.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "696c2cfea5f012d8dfdd80e9857de3acbb433d29dd0d61679deff075e11a3d58",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_965.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "cfe113f6bc4509a2bd2fa2a16234d4dc4188fbeadf9bade5239fc6e157557140",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_980.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "dda2012512f26617a1d45deae900f823a8c3b43137163aae5e8a9b5a5a1c8774",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/meningioma/Tr-me_99.jpg",
+    "split": "train",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "1e40cd55778c550f42230a51d68ad3f9f0f706af5710c2a1c95250c6a99a151f",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/notumor/Tr-no_1096.jpg",
+    "split": "train",
+    "class": "notumor",
+    "label": 2,
+    "pixel_sha256": "35fbbd8d53e5200adfda93cc889db53bad063c9342443ed1c3304101821874ed",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/notumor/Tr-no_1319.jpg",
+    "split": "train",
+    "class": "notumor",
+    "label": 2,
+    "pixel_sha256": "8971b1aeb91e4356e0115ee80750961a7639c1c16a9219745d6ed4d26f2057f7",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/notumor/Tr-no_147.jpg",
+    "split": "train",
+    "class": "notumor",
+    "label": 2,
+    "pixel_sha256": "6508ae0db13dc3bcf205c100b33ee23070f99e18f3addce45b1a8662c9d06644",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/notumor/Tr-no_247.jpg",
+    "split": "train",
+    "class": "notumor",
+    "label": 2,
+    "pixel_sha256": "f6629f5b3b49068bdd0333bbc63419ec949a3708abc48627ca4aec75b2da79cb",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/notumor/Tr-no_362.jpg",
+    "split": "train",
+    "class": "notumor",
+    "label": 2,
+    "pixel_sha256": "b3df65461fc3eabf311b70dcac007b98d3a1193be4d0c082820919d303ace36b",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/notumor/Tr-no_760.jpg",
+    "split": "train",
+    "class": "notumor",
+    "label": 2,
+    "pixel_sha256": "d462d858edcf2950361459e9edfbb7d2f60aa54f167f0c5c8f107962f457750e",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/notumor/Tr-no_832.jpg",
+    "split": "train",
+    "class": "notumor",
+    "label": 2,
+    "pixel_sha256": "d666e0be2b30dac9671ed38d045412310375158c72755dc887c1dbc8bbdd256d",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "train/notumor/Tr-no_970.jpg",
+    "split": "train",
+    "class": "notumor",
+    "label": 2,
+    "pixel_sha256": "62614aa6d0a1df8a7115e6ad935645f967db90980685cc7c7c3011d4e1e6ba46",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "val/meningioma/Tr-me_1110.jpg",
+    "split": "val",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "ec147a07f832c183335455d8d54421adbfa885e8ed33b9ceb13abacd911ce338",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "val/meningioma/Tr-me_1194.jpg",
+    "split": "val",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "13d926c659c56a35ac89ad69ca823ae6c8520a9345d2653f5dba2d784c837788",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "val/meningioma/Tr-me_1225.jpg",
+    "split": "val",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "72cbe06bd1d775f3ce9d7eac2a32f0a743c55bb8ece0cb36ad3533775a55c265",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "val/meningioma/Tr-me_472.jpg",
+    "split": "val",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "80880033483575e988946f48c57f9978f96461977d4d9fe4937b71151d2872b4",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "val/meningioma/Tr-me_479.jpg",
+    "split": "val",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "3c0a3312b66f151edb616d3b4f4417bb70c0dc54cb67b29e1f04501fccdf208a",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "val/meningioma/Tr-me_489.jpg",
+    "split": "val",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "e6c547330a546ff5e202da4c856c9458028a2ff6cc1f96c45397739e69f23ac3",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "val/meningioma/Tr-me_553.jpg",
+    "split": "val",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "0c20e560b387cc245eda32c1ea644e235a9305212dfb250ac6408ba7a20cdb65",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "val/meningioma/Tr-me_758.jpg",
+    "split": "val",
+    "class": "meningioma",
+    "label": 1,
+    "pixel_sha256": "21ac13d245e689bc0185d6664e4000b08841f29199389247c83c3950ee21cfe9",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "path": "val/notumor/Tr-no_1004.jpg",
+    "split": "val",
+    "class": "notumor",
+    "label": 2,
+    "pixel_sha256": "f173e40b53f6b2328987651baf139039c06a8f359580e1f130eb73906e876df8",
+    "reason": "exact_pixel_duplicate"
+  }
+]

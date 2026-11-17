@@ -1,0 +1,42 @@
+{
+  "command": "train",
+  "data": "/home/yohad/Downloads/archive/brain-tumor-mri-deduplicated/data",
+  "output": "results",
+  "epochs": 15,
+  "head_epochs": 3,
+  "batch_size": 16,
+  "patience": 4,
+  "seed": 42,
+  "cpu": false,
+  "audit_only": false,
+  "device": "cuda",
+  "classes": [
+    "glioma",
+    "meningioma",
+    "notumor",
+    "pituitary"
+  ],
+  "counts": {
+    "train": {
+      "glioma": 1254,
+      "meningioma": 1154,
+      "notumor": 812,
+      "pituitary": 1215
+    },
+    "val": {
+      "glioma": 139,
+      "meningioma": 129,
+      "notumor": 90,
+      "pituitary": 135
+    },
+    "test": {
+      "glioma": 382,
+      "meningioma": 390,
+      "notumor": 303,
+      "pituitary": 400
+    }
+  },
+  "python": "3.12.3",
+  "torch": "2.7.1+cu126",
+  "limitation": "Image-level evaluation. Patient independence and near-duplicate absence are NOT established."
+}

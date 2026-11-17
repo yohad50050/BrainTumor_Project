@@ -1,0 +1,21 @@
+              precision    recall  f1-score   support
+
+      glioma       1.00      0.82      0.90       382
+  meningioma       0.90      0.92      0.91       390
+     notumor       0.85      0.99      0.91       303
+   pituitary       0.98      0.99      0.99       400
+
+    accuracy                           0.93      1475
+   macro avg       0.93      0.93      0.93      1475
+weighted avg       0.93      0.93      0.93      1475
+
+{
+  "threshold": 0.5,
+  "sensitivity": 0.9530716723549488,
+  "specificity": 0.9933993399339934,
+  "roc_auc": 0.9980513409702746,
+  "false_negatives": 55,
+  "false_positives": 2
+}
+Research/education only. Scores are not calibrated clinical probabilities.
+Exact pixel duplicates were audited; near duplicates and patient overlap may remain.
